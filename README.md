@@ -73,9 +73,7 @@ git clone https://github.com/CarlosJoaoIpiales/resapi-asp.net-core-jwt-middlewea
 
 ![Descripción de la imagen](https://i.ibb.co/mJtM0t8/Captura-de-pantalla-2023-12-03-161042.png)
 
-## Contribuciones
 
-Cualquier sugerencia comunicarse al correo cjipiales1@espe.edu.ec
 
 
 ###End
